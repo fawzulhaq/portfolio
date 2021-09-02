@@ -234,8 +234,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100px;
   font-weight: 700;
   line-height: 56px;
-  color: rgb(214, 80, 3);
-  text-shadow: 3px 2px #ffffff;
+  color: rgb(172, 96, 9);
+  text-shadow: 2px 2px #838383;
 }
 
 #hero p {
@@ -263,6 +263,7 @@ h1, h2, h3, h4, h5, h6 {
   #hero h1 {
     font-size: 55px;
     line-height: 30px;
+    
   }
   #hero h2 {
     font-size: 25px;
